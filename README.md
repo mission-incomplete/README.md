@@ -5,20 +5,11 @@
 Name :Jaya Shankar Nalanagula
 
 ASU ID: 1222514046
- Markup : * Branch Prediction attempts to guess whether a conditional jump will be taken or not. 
-              * Nested bullet
-                  * Sub-nested bullet etc
-          * Branch Prediction attempts to guess whether a conditional jump will be taken or not. 
-
--OR-
-
- Markup : - Bullet list
-              - Nested bullet
-                  - Sub-nested bullet etc
-          - Bullet list item 2 
+ 
 **Branch Prediction**:
 
 *Branch Prediction attempts to guess whether a conditional jump will be taken or not. 
+
 *The purpose of the branch prediction is to improve the flow in the instruction pipeline. 
 *Branch Predictors play an important role in achieving high effective performance in many modern pipelined microprocessor architectures. 
 *Without branch prediction, the processor would have to wait until the conditional jump instruction has passed the execute stage before the next instruction can enter the fetch stage in the pipeline. 
