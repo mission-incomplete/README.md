@@ -5,7 +5,17 @@
 Name :Jaya Shankar Nalanagula
 
 ASU ID: 1222514046
+ Markup : * Branch Prediction attempts to guess whether a conditional jump will be taken or not. 
+              * Nested bullet
+                  * Sub-nested bullet etc
+          * Branch Prediction attempts to guess whether a conditional jump will be taken or not. 
 
+-OR-
+
+ Markup : - Bullet list
+              - Nested bullet
+                  - Sub-nested bullet etc
+          - Bullet list item 2 
 **Branch Prediction**:
 
 *Branch Prediction attempts to guess whether a conditional jump will be taken or not. 
